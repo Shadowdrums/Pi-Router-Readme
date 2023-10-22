@@ -3,7 +3,8 @@ This is a breif description of the router made and used by shadowdrums and Shado
 
 # Raspberry Pi 4B (2GB) Router with OpenWRT
 
-![Router Image](router_image.jpg)
+![Router Image](pi_routerA.jpg)
+![Router Image](pi_routerB.jpg)
 
 ## Purpose and Benefits
 
