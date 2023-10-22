@@ -29,6 +29,7 @@ This project showcases the creation of a custom router using a Raspberry Pi 4B w
   - Cana Kit external WiFi adapter
   - 5-port unmanaged TP-Link Ethernet switch
   - Case with integrated fan
+  - Raspberry Pi Pico W
 
 - **Wireless Capabilities**:
   - The Cana Kit adapter enables the broadcast of a WiFi signal.
