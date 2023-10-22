@@ -81,4 +81,4 @@ This project showcases the creation of a custom router using a Raspberry Pi 4B w
 - Keep the system updated with the latest security patches to ensure optimal performance and security.
 - Regularly monitor the Raspberry Pi's temperature and adjust fan settings if necessary to prevent overheating.
 
-Feel free to tailor this README to include any specific details about your setup or additional functionalities you may have implemented. Enjoy the enhanced capabilities of your Raspberry Pi 4B (2GB) router with OpenWRT!
+Enjoy the enhanced capabilities of your Raspberry Pi 4B (2GB) router with OpenWRT!
